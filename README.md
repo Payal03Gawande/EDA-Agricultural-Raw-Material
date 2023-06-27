@@ -21,7 +21,7 @@ Make a note of interesting insights from the exploratory analysis
 
 Given Data :-Coarse wool PriceCoarse wool price % ChangeCopra PriceCopra price % ChangeCotton PriceCotton price % ChangeFine wool PriceFine wool price % ChangeHard log PriceHard log price % Change...Plywood PricePlywood price % ChangeRubber PriceRubber price % ChangeSoftlog PriceSoftlog price % ChangeSoft sawnwood PriceSoft sawnwood price % ChangeWood pulp PriceWood pulp price % Change and Month
 
-Conclusion and Insigts :-
+# Conclusion and Insigts :-
 
 1 Suppose we are planning some bussines which requrired my own raw material than this information will help
 
