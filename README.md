@@ -1,6 +1,8 @@
 # EDA-Agricultural-Raw-Material
 ![how_to_become](https://github.com/Payal03Gawande/EDA-Agricultural-Raw-Material/assets/132563037/6cb47cfd-4604-4014-805c-2381ef30b802)
-
+# About Dataset
+Content
+This dataset comprises of prices and price % change for coarse wool, copra, cotton, fine wool, hardlog, hard sawnwood, hide, plywood, rubber, softlog, soft sawnwood and wood pulp.
 Content This dataset comprises of prices and price % change for coarse wool, copra, cotton, fine wool, hardlog, hard sawnwood, hide, plywood, rubber, softlog, soft sawnwood and wood pulp.
 
 Load the dataset into a data frame using Pandas
