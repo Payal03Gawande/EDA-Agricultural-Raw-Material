@@ -4,6 +4,8 @@
 Content
 This dataset comprises of prices and price % change for coarse wool, copra, cotton, fine wool, hardlog, hard sawnwood, hide, plywood, rubber, softlog, soft sawnwood and wood pulp.
 Content This dataset comprises of prices and price % change for coarse wool, copra, cotton, fine wool, hardlog, hard sawnwood, hide, plywood, rubber, softlog, soft sawnwood and wood pulp.
+# kagglelink  
+https://www.kaggle.com/datasets/kianwee/agricultural-raw-material-prices-19902020 
 
 Load the dataset into a data frame using Pandas
 
